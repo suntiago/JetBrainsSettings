@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:keyBoardShow" />
+    <option name="mostRecentlyUsed" value="message:TripCostDialog" />
     <option name="nonFavorites">
       <list>
+        <option value="message:TripCostDialog" />
         <option value="package:mine message:keyBoardShow" />
         <option value="tag:SoftKeyBoardListener" />
         <option value="message:keyBoardShow" />
