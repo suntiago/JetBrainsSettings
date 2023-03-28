@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:FishesAccountService" />
+    <option name="mostRecentlyUsed" value="package:mine message:keyBoardShow" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:keyBoardShow" />
+        <option value="tag:SoftKeyBoardListener" />
+        <option value="message:keyBoardShow" />
         <option value="message:FishesAccountService" />
         <option value="message:services" />
         <option value="initService" />
