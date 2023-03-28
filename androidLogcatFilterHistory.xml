@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="initService" />
+    <option name="mostRecentlyUsed" value="message:services" />
     <option name="nonFavorites">
       <list>
+        <option value="message:services" />
         <option value="initService" />
+        <option value="14519" />
         <option value="tag:MapApplication" />
         <option value="AccountInfoManagerImpl" />
         <option value="tag:tkgroup-AccountManagerImpl ccountManagerImpl " />
