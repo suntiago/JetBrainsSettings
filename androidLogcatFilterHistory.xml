@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:services" />
+    <option name="mostRecentlyUsed" value="message:FishesAccountService" />
     <option name="nonFavorites">
       <list>
+        <option value="message:FishesAccountService" />
         <option value="message:services" />
         <option value="initService" />
         <option value="14519" />
