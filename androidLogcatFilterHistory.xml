@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:keyBoardShow" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="message:keyBoardShow" />
         <option value="message:TripCostDialog" />
         <option value="package:mine message:keyBoardShow" />
@@ -14,7 +14,6 @@
         <option value="tag:MapApplication" />
         <option value="AccountInfoManagerImpl" />
         <option value="tag:tkgroup-AccountManagerImpl ccountManagerImpl " />
-        <option value="package:mine " />
         <option value="tag:CardRemote" />
       </list>
     </option>
