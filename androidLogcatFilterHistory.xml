@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.iflytek.cutefly.speechclient.hmi " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.iflytek.cutefly.speechclient.hmi " />
         <option value="package:mine " />
+        <option value="package:mine  tag:okhttp.OkHttpClient" />
         <option value="message:keyBoardShow" />
         <option value="message:TripCostDialog" />
         <option value="package:mine message:keyBoardShow" />
