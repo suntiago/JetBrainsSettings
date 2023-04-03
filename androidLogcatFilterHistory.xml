@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package:mine tag:AutotestActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AutotestActivity" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="package:com.iflytek.cutefly.speechclient.hmi " />
