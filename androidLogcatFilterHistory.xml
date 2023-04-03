@@ -1,6 +1,6 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fishes" />
+    <option name="mostRecentlyUsed" value="System.err" />
     <option name="nonFavorites">
       <list>
         <option value="fishes" />
