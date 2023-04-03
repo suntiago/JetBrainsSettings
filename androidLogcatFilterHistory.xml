@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:AutotestActivity" />
+    <option name="mostRecentlyUsed" value="tag:System.err " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:System.err " />
+        <option value="Fish" />
+        <option value="tag:IFishProtocol" />
+        <option value="message:Register" />
+        <option value="package:mine   tag::IFishProtocol" />
+        <option value="package:mine   message:Register" />
+        <option value="package:mine  " />
         <option value="package:mine tag:AutotestActivity" />
         <option value="package:mine" />
         <option value="package:mine " />
@@ -16,11 +23,6 @@
         <option value="message:FishesAccountService" />
         <option value="message:services" />
         <option value="initService" />
-        <option value="14519" />
-        <option value="tag:MapApplication" />
-        <option value="AccountInfoManagerImpl" />
-        <option value="tag:tkgroup-AccountManagerImpl ccountManagerImpl " />
-        <option value="tag:CardRemote" />
       </list>
     </option>
   </component>
