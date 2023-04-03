@@ -1,9 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="System.err" />
+    <option name="mostRecentlyUsed" value="FishesException" />
     <option name="nonFavorites">
       <list>
+        <option value="FishesException" />
+        <option value="SmartLink" />
+        <option value="Fishes" />
         <option value="fishes" />
+        <option value="pid-9745" />
         <option value="package:com.smartlink.tkweather " />
         <option value="System.err" />
         <option value="tag:FISHES" />
@@ -19,10 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine tag:AutotestActivity" />
         <option value="package:mine" />
-        <option value="package:mine " />
-        <option value="package:com.iflytek.cutefly.speechclient.hmi " />
-        <option value="package:mine  tag:okhttp.OkHttpClient" />
-        <option value="message:keyBoardShow" />
       </list>
     </option>
   </component>
