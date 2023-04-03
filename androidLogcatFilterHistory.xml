@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:System.err " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="tag:Fishes" />
+        <option value="message:Register" />
+        <option value="package:com.smartlink.tkweather " />
+        <option value="package:tk" />
         <option value="tag:System.err " />
         <option value="Fish" />
         <option value="tag:IFishProtocol" />
-        <option value="message:Register" />
         <option value="package:mine   tag::IFishProtocol" />
         <option value="package:mine   message:Register" />
         <option value="package:mine  " />
         <option value="package:mine tag:AutotestActivity" />
         <option value="package:mine" />
         <option value="package:mine " />
-        <option value="level:error " />
         <option value="package:com.iflytek.cutefly.speechclient.hmi " />
         <option value="package:mine  tag:okhttp.OkHttpClient" />
         <option value="message:keyBoardShow" />
         <option value="message:TripCostDialog" />
         <option value="package:mine message:keyBoardShow" />
         <option value="tag:SoftKeyBoardListener" />
-        <option value="message:FishesAccountService" />
-        <option value="message:services" />
-        <option value="initService" />
       </list>
     </option>
   </component>
