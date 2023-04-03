@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FishesException" />
+    <option name="mostRecentlyUsed" value="package:com.smartlink.tkweather " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.smartlink.tkweather " />
         <option value="FishesException" />
         <option value="SmartLink" />
         <option value="Fishes" />
         <option value="fishes" />
         <option value="pid-9745" />
-        <option value="package:com.smartlink.tkweather " />
         <option value="System.err" />
         <option value="tag:FISHES" />
         <option value="level:error " />
