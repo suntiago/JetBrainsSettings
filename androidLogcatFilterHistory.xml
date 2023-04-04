@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="system.err" />
+    <option name="mostRecentlyUsed" value="FishNavigationServiceImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="FishNavigationServiceImpl" />
+        <option value="package:mine message:&quot;Register &quot;" />
+        <option value="package:mine message:&quot;Register class&quot;" />
+        <option value="level:error level:warn " />
+        <option value="fish level:error level:warn " />
+        <option value="package:mine level:error level:warn " />
         <option value="system.err" />
+        <option value="FishesException" />
+        <option value="weather" />
         <option value="package:mine  " />
         <option value="package:com.smartlink.tkweather " />
         <option value="package:com.smartlink.autotest " />
         <option value="package:mine   tag:BinderProvider" />
         <option value="package:mi" />
         <option value="package:com.smartlink.maplauncher " />
-        <option value="FishesException" />
         <option value="SmartLink" />
         <option value="Fishes" />
         <option value="fishes" />
         <option value="pid-9745" />
         <option value="System.err" />
-        <option value="tag:FISHES" />
-        <option value="level:error " />
-        <option value="tag:Fishes" />
-        <option value="message:Register" />
-        <option value="package:tk" />
-        <option value="tag:System.err " />
-        <option value="Fish" />
       </list>
     </option>
   </component>
