@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.smartlink.tkweather " />
+    <option name="mostRecentlyUsed" value="package:mine   tag:BinderProvider" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.smartlink.autotest " />
+        <option value="package:mine   tag:BinderProvider" />
+        <option value="package:mine  " />
+        <option value="package:mi" />
+        <option value="package:com.smartlink.maplauncher " />
+        <option value="system.err" />
         <option value="package:com.smartlink.tkweather " />
         <option value="FishesException" />
         <option value="SmartLink" />
@@ -17,12 +23,6 @@
         <option value="package:tk" />
         <option value="tag:System.err " />
         <option value="Fish" />
-        <option value="tag:IFishProtocol" />
-        <option value="package:mine   tag::IFishProtocol" />
-        <option value="package:mine   message:Register" />
-        <option value="package:mine  " />
-        <option value="package:mine tag:AutotestActivity" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
