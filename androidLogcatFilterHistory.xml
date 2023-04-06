@@ -2,10 +2,10 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  level:error  level:warn " />
         <option value="Fishes" />
         <option value="package:mine " />
         <option value="package:com.smartlink.autotest " />
-        <option value="package:mine  level:error  level:warn " />
         <option value="package:mine  level:error " />
         <option value="weather" />
         <option value="tkweather" />
