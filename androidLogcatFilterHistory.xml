@@ -2,10 +2,11 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="Fishes" />
+        <option value="package:mine " />
         <option value="package:com.smartlink.autotest " />
         <option value="package:mine  level:error  level:warn " />
         <option value="package:mine  level:error " />
-        <option value="package:mine " />
         <option value="weather" />
         <option value="tkweather" />
         <option value="FishNavigationServiceImpl" />
@@ -21,7 +22,6 @@
         <option value="package:mine   tag:BinderProvider" />
         <option value="package:mi" />
         <option value="package:com.smartlink.maplauncher " />
-        <option value="SmartLink" />
       </list>
     </option>
   </component>
