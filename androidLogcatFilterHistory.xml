@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine  level:error  level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  level:error  level:warn " />
+        <option value="package:mine  level:error " />
         <option value="package:mine " />
         <option value="weather" />
         <option value="tkweather" />
@@ -20,8 +23,6 @@
         <option value="package:mi" />
         <option value="package:com.smartlink.maplauncher " />
         <option value="SmartLink" />
-        <option value="Fishes" />
-        <option value="fishes" />
       </list>
     </option>
   </component>
