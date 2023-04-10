@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.smartlink.tkdevelopermode " />
+    <option name="mostRecentlyUsed" value="package:mine tag:NavFragment  tag:ExitNaviCustomDialog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NavFragment  tag:ExitNaviCustomDialog" />
+        <option value="package:mine tag:NavFragment " />
+        <option value="package:mine " />
         <option value="package:com.smartlink.tkdevelopermode " />
         <option value="devm" />
         <option value="pac" />
@@ -10,7 +13,6 @@
         <option value="message:tkstore" />
         <option value="message:startActivityInWindow" />
         <option value="startActivityInWindow" />
-        <option value="package:mine " />
         <option value="package:mine  level:error  level:warn " />
         <option value="Fishes" />
         <option value="package:com.smartlink.autotest " />
@@ -21,8 +23,6 @@
         <option value="package:mine message:&quot;Register &quot;" />
         <option value="package:mine message:&quot;Register class&quot;" />
         <option value="level:error level:warn " />
-        <option value="fish level:error level:warn " />
-        <option value="package:mine level:error level:warn " />
       </list>
     </option>
   </component>
