@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:tkstore" />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp" />
         <option value="message:tkstore" />
         <option value="message:startActivityInWindow" />
         <option value="startActivityInWindow" />
@@ -22,7 +23,6 @@
         <option value="system.err" />
         <option value="FishesException" />
         <option value="package:mine  " />
-        <option value="package:com.smartlink.tkweather " />
       </list>
     </option>
   </component>
