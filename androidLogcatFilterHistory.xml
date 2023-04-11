@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AutoTestNavigation" />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp" />
         <option value="tag:AutoTestNavigation" />
         <option value="package:mine tag:FullScreenStateManager" />
         <option value="package:mine tag:BinderProvider" />
@@ -12,7 +13,6 @@
         <option value="package:com.smartlink.tkdevelopermode " />
         <option value="devm" />
         <option value="pac" />
-        <option value="okhttp" />
         <option value="message:tkstore" />
         <option value="message:startActivityInWindow" />
         <option value="startActivityInWindow" />
