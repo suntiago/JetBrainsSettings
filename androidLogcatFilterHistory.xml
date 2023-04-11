@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NavFragment  tag:ExitNaviCustomDialog" />
+    <option name="mostRecentlyUsed" value="package:mine tag:FullScreenStateManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:FullScreenStateManager" />
         <option value="package:mine tag:NavFragment  tag:ExitNaviCustomDialog" />
         <option value="package:mine tag:NavFragment " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="FishNavigationServiceImpl" />
         <option value="package:mine message:&quot;Register &quot;" />
         <option value="package:mine message:&quot;Register class&quot;" />
-        <option value="level:error level:warn " />
       </list>
     </option>
   </component>
