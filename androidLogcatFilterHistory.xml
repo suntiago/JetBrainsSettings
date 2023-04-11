@@ -3,9 +3,9 @@
     <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:FullScreenStateManager" />
         <option value="okhttp" />
         <option value="tag:AutoTestNavigation" />
-        <option value="package:mine tag:FullScreenStateManager" />
         <option value="package:mine tag:BinderProvider" />
         <option value="package:mine tag:NavFragment  tag:ExitNaviCustomDialog" />
         <option value="package:mine tag:NavFragment " />
