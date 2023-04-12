@@ -1,15 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="drawTripCardRoute" />
     <option name="nonFavorites">
       <list>
+        <option value="drawTripCardRoute" />
+        <option value="package:mine message:onRegeocodeSearched message:drawTripCardPolyLine" />
+        <option value="package:mine message:onRegeocodeSearched" />
+        <option value="package:mine " />
+        <option value="onRegeocodeSearched" />
         <option value="okhttp" />
         <option value="package:mine tag:FullScreenStateManager" />
         <option value="tag:AutoTestNavigation" />
         <option value="package:mine tag:BinderProvider" />
         <option value="package:mine tag:NavFragment  tag:ExitNaviCustomDialog" />
         <option value="package:mine tag:NavFragment " />
-        <option value="package:mine " />
         <option value="package:com.smartlink.tkdevelopermode " />
         <option value="devm" />
         <option value="pac" />
@@ -19,10 +23,6 @@
         <option value="package:mine  level:error  level:warn " />
         <option value="Fishes" />
         <option value="package:com.smartlink.autotest " />
-        <option value="package:mine  level:error " />
-        <option value="weather" />
-        <option value="tkweather" />
-        <option value="FishNavigationServiceImpl" />
       </list>
     </option>
   </component>
