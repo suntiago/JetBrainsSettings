@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="drawTripCardRoute" />
+    <option name="mostRecentlyUsed" value="tag:NavFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NavFragment" />
         <option value="drawTripCardRoute" />
         <option value="package:mine message:onRegeocodeSearched message:drawTripCardPolyLine" />
         <option value="package:mine message:onRegeocodeSearched" />
@@ -22,7 +23,6 @@
         <option value="startActivityInWindow" />
         <option value="package:mine  level:error  level:warn " />
         <option value="Fishes" />
-        <option value="package:com.smartlink.autotest " />
       </list>
     </option>
   </component>
