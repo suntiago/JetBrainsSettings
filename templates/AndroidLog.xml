@@ -1,6 +1,5 @@
 <templateSet group="AndroidLog">
-  <template name="log" value="com.smartlink.linkcommonutils.LogUtil.$LOG_LEVEL$(TAG, &quot;$content$($params$)&quot;);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="LOG_LEVEL" expression="enum(&quot;d&quot;, &quot;i&quot;, &quot;w&quot;, &quot;e&quot;, &quot;v&quot;) " defaultValue="d" alwaysStopAt="true" />
+  <template name="log" value="com.smartlink.linkcommonutils.LogUtil.d(TAG, &quot;$content$($params$)&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="content" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <context>

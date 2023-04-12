@@ -1,17 +1,7 @@
 <templateSet group="AndroidLogKotlin">
-  <template name="log" value="$LOG$.$LOG_LEVEL$(TAG, &quot;$METHOD_NAME$: $content$&quot;)&#10;" description="Log.d(TAG, String)" toReformat="true" toShortenFQNames="true">
-    <variable name="LOG" expression="enum(&quot;com.smartlink.linkcommonutils.LogUtil&quot;,&quot;android.util.Log&quot;)" defaultValue="“com.smartlink.linkcommonutils.LogUtil”" alwaysStopAt="true" />
-    <variable name="LOG_LEVEL" expression="enum(&quot;d&quot;, &quot;i&quot;, &quot;w&quot;, &quot;e&quot;, &quot;v&quot;)" defaultValue="d" alwaysStopAt="true" />
-    <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="KOTLIN_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="logm" value="$LOG$.$LOG_LEVEL$(TAG, $content$)" description="Log method name and its arguments" toReformat="true" toShortenFQNames="true">
-    <variable name="LOG" expression="enum(&quot;com.smartlink.linkcommonutils.LogUtil&quot;,&quot;android.util.Log&quot;)" defaultValue="“com.smartlink.linkcommonutils.LogUtil”" alwaysStopAt="true" />
-    <variable name="LOG_LEVEL" expression="enum(&quot;d&quot;, &quot;i&quot;, &quot;w&quot;, &quot;e&quot;, &quot;v&quot;)" defaultValue="&quot;d&quot;" alwaysStopAt="true" />
-    <variable name="content" expression="groovyScript(&quot;def params = _2.collect {it + ' = $' + it}.join(', '); return '\&quot;' + _1 + '() ' + (params.empty  ? '' : ': ' + params) + '\&quot;'&quot;, kotlinFunctionName(), functionParameters())" defaultValue="" alwaysStopAt="false" />
+  <template name="logd" value="android.util.Log.d(TAG, &quot;$METHOD_NAME$: $content$&quot;)" description="Log.d(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="functionParameters()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
 </templateSet>
